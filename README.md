@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leaf8
 - 👀 I’m interested in php, semantic web, python
-- 🌱 I’m currently learning emantic web, python
+- 🌱 I’m currently learning semantic web, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in space
 
